@@ -1,6 +1,7 @@
 # SKKNavigationBarTransition 
 ##Requirements
 * iOS 8+, Swift. 
+
 ##Installation
 1. Download or clone the project and copy the contents of the SKKNavigationBarTransition folder into your project. 
 2. Create a property for the animation controller in the view controller you want the custom transition to happen from.
